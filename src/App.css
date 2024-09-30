@@ -1,0 +1,10 @@
+.header {
+  background-color: rgba(33, 37, 41, 1);
+}
+
+.image {
+  width: 36px;
+  height: 36px;
+  /* Make it rounded */
+  border-radius: 50%;
+}
